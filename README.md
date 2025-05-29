@@ -1,1 +1,1 @@
-# Multi-Agent-Reinforcement-Learning-and-Agent-AI
+# Multi-Agent-Reinforcement-Learning-and-Agentic-AI
